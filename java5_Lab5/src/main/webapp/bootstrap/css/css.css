@@ -1,0 +1,71 @@
+.navbar,footer{
+    background-color: rgba(27, 27, 27, 0.959);
+}
+.dropdown-menu>a{
+    margin: 100px 15px;
+}
+hr{
+    margin: 5px;
+}
+a{
+    text-decoration: none;
+    color: rgb(165, 165, 165);
+}
+.nav> li:hover> a{
+    color: rgb(165, 3, 3);
+}
+header>div{
+    background-color: white;
+    font-variant: small-caps;
+    margin-left: 10px;
+}
+h1{
+    font-family: Impact;
+    letter-spacing: 1px;
+    font-size: 45px;
+    font-weight: bolder;
+    color: white;
+    text-shadow:0 0 1px rgb(0, 0, 0);
+    padding-top: 35px;
+}
+
+
+.poly-cart ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-variant:  small-caps;
+}
+.pane{
+    border: black 1px solid;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom:20px ;
+}
+.find .pane{
+    padding: 5%;
+}
+.poly-cart> .pane{
+    padding: 10px 0px 10px  20%;
+}
+.find{
+    margin-top: 20px;
+}
+.pane-heading{
+    background-color: rgba(128, 128, 128, 0.342);
+}
+.pane>div>h5{
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+.pane>div>h6{
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.342);
+    text-align: center;
+}
+footer{
+    color: white;
+    text-align: center;
+}
